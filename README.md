@@ -10,13 +10,14 @@ A Fabric mod for Minecraft 1.20.1 that introduces the Research Table, a replacem
 - Multiplayer ready — progress is stored per-player on the server.
 
 ## Building
-The project uses Gradle with Fabric Loom. From the repository root:
+The project uses the Gradle wrapper with Fabric Loom so you do not need a system-wide Gradle installation. From the repository root:
 
 ```bash
-./gradlew build
+./gradlew build      # macOS/Linux
+gradlew.bat build    # Windows
 ```
 
-If the Gradle wrapper jar has not been bootstrapped yet, the helper script falls back to any Gradle installation on your PATH. The resulting mod jar will be placed in `build/libs/`.
+The wrapper will download the required Gradle version on first use and place the resulting mod jar in `build/libs/`.
 
 ## License
 This project is released under the MIT License.
