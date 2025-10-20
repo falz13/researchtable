@@ -1,28 +1,4 @@
-# Gradle build system
 .gradle/
 build/
-out/
-bin/
-
-# Loom & cache directories
 run/
-classes/
-logs/
-loom-cache/
-.cache/
-.minecraft/
-
-# IDE / editor
-.idea/
-*.iml
-.vscode/
-*.launch
-*.class
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Misc
 *.log
-*.tmp
