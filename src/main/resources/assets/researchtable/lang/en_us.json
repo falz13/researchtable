@@ -1,0 +1,17 @@
+{
+  "block.researchtable.research_table": "Research Table",
+  "item.researchtable.research_table": "Research Table",
+  "screen.researchtable.title": "Research Table",
+  "screen.researchtable.tab.enchantments": "Enchantments",
+  "screen.researchtable.tab.research": "Research",
+  "screen.researchtable.tab.crafting": "Crafting",
+  "screen.researchtable.button.research": "Study",
+  "screen.researchtable.button.apply": "Apply",
+  "screen.researchtable.level": "Level %s",
+  "screen.researchtable.research_hint": "Study enchanted items here to unlock their secrets.",
+  "screen.researchtable.research_item": "%s (Level %s) grants %s research",
+  "screen.researchtable.level_button": "Level",
+  "screen.researchtable.current_level": "Current: %s / %s",
+  "screen.researchtable.selected_level": "Selected: %s",
+  "screen.researchtable.cost_summary": "Cost: %s levels, %s lapis"
+}
